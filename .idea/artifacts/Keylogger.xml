@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="Keylogger">
+    <output-path>$PROJECT_DIR$/out/artifacts/Keylogger</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="program" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Keylogger.jar">
+        <element id="module-output" name="Keylogger" />
+        <element id="library" level="project" name="libs" />
+      </element>
+    </root>
+  </artifact>
+</component>
